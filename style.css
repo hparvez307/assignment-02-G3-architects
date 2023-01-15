@@ -36,6 +36,9 @@ nav {
     font-size: 45px;
 }
 
+.nav-title-span{
+    color: #FF900E;
+}
 nav ul {
     padding-left: 50px;
     list-style: none;
